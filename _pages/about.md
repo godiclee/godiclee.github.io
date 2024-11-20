@@ -11,14 +11,14 @@ I am Ko-tik Lee, a Machine Learning Engineer with over 3 years of experience in 
 
 [My Latest Resume](/files/cv.pdf)
 
-[Expereince](#experience) / [Education](#education) / [Awards](#awards) / [Publications](#publications) / [Selected Projects](#projects)
+[Expereince](#experience) / [Education](#education) / [Awards](#awards) / [Publications](#publications) / [Selected Projects](#selected-projects)
 
 Experience
 ======
-Taiwan AI Labs
-- Machine Learning Engineer (Aug. 2021 - Nov. 2024)
-Teaching Assistant at NTU (Mar. 2021 - Jul. 2021)
-- Machine Learning Fall 2021, Prof. Hung-yi Lee
+- Taiwan AI Labs (Aug. 2021 - Nov. 2024)
+  + Machine Learning Engineer 
+- Teaching Assistant at NTU (Mar. 2021 - Jul. 2021)
+  + Machine Learning Fall 2021, Prof. Hung-yi Lee
 
 Education
 ======
@@ -29,14 +29,14 @@ National Taiwan University
 
 Awards
 ======
-- 1st Place in Cadence Data Structure and Programming Contest (in C++) [[Github](https://github.com/godiclee/Dsnp-Fraig)] (Nov. 2020)
-- Presidential Award (Dean’s List, award to top 5% in class) (Apr. 2019)
+- 1st Place in Cadence Data Structure and Programming Contest (in C++) [[Github](https://github.com/godiclee/Dsnp-Fraig)]
+- Presidential Award (Dean’s List, award to top 5% in class)
 
 Publications
 ======
-- Improved Speaker Diarization Based on Speech Foundation Models (Master’s thesis) [[Paper](https://godiclee.github.io/files/thesis.pdf)] (Jan. 2024)
-- SUPERB: Speech processing Universal PERformance Benchmark (Co-author) [[Paper](https://arxiv.org/abs/2105.01051)] (May. 2021)
+- Improved Speaker Diarization Based on Speech Foundation Models [[Paper](https://godiclee.github.io/files/thesis.pdf)]
+- SUPERB: Speech processing Universal PERformance Benchmark [[Paper](https://arxiv.org/abs/2105.01051)]
 
-Projects
+Selected Projects
 ======
 TBD
