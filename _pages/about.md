@@ -9,8 +9,6 @@ redirect_from:
 
 I am Ko-tik Lee, a Machine Learning Engineer with over 3 years of experience in developing and deploying AI models. My expertise encompasses speech processing, computer vision, and large language models. Throughout my career, I have been focused on optimizing model performance, building scalable pipelines, and delivering cutting-edge AI solutions. 
 
-[!! My Latest Resume !!](/files/cv.pdf)
-
 [Expereince](#experience) / [Education](#education) / [Awards](#awards) / [Publications](#publications) / [Personal Projects](#personal-projects)
 
 Experience
